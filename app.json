@@ -4,6 +4,11 @@
     "slug": "task",
     "privacy": "public",
     "sdkVersion": "34.0.0",
+    "android": {
+      "package": "com.johncy.myapp",
+      "versionCode": 1,
+      "icon": "./assets/icon.png"
+    },
     "platforms": [
       "ios",
       "android",
